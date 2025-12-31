@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=656BF7&text=Karthick%20Ajan&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Cloud%20&%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=656BF7&text=Sunny%20Patel&fontAlign=50&fontAlignY=35&fontSize=48&desc=Full‑Stack%20Developer%20•%20Backend%20Engineer%20•%20DevOps%20Enthusiast&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
