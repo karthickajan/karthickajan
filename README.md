@@ -5,7 +5,7 @@
 
 <!-- Social + Counters -->
 <p align="center">
-  <a href="https://linkedin.com/in/karthickajan">
+  <a href="https://www.linkedin.com/in/karthick-ajan-g-s-a9b9371b2">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/karthickajan?tab=followers">
