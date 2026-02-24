@@ -25,7 +25,7 @@
 
 ---
 
-## 👋 About Me
+## https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif About Me
 - 🎓 BTech EEE student focused on software engineering.
 - 💡 Passionate about performance, security, and maintainability.
 - 🧩 Love backend architecture, automation, observability, and DX.
